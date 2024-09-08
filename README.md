@@ -1,11 +1,11 @@
 <h1 align="center">Codeforces Solution Fetcher</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/MohamedAbdelfattah022/codeforces-solution-fetcher?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/MohamedAbdelfattah022/Codefoces-Solution-Fetcher?color=56BEB8">
  &#xa0; 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/MohamedAbdelfattah022/codeforces-solution-fetcher?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/MohamedAbdelfattah022/Codefoces-Solution-Fetcher?color=56BEB8">
  &#xa0; 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/MohamedAbdelfattah022/codeforces-solution-fetcher?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/MohamedAbdelfattah022/Codefoces-Solution-Fetcher?color=56BEB8">
 </p>
 
 <p align="center">
@@ -52,7 +52,7 @@ Before starting, make sure you have the following installed:
 git clone https://github.com/MohamedAbdelfattah022/Codefoces-Solution-Fetcher.git
 
 # Access the project folder
-cd Codeforces-Solution-Fetcher
+cd Codefoces-Solution-Fetcher
 
 # Install dependencies
 pip install -r requirements.txt
